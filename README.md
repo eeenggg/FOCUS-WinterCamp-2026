@@ -134,7 +134,7 @@ pip install ultralytics opencv-python
 
 ```bash
 
-python src/scripts/predict\_mygo.py
+python src/scripts/predict_mygo.py
 
 ```
 
@@ -146,7 +146,7 @@ python src/scripts/predict\_mygo.py
 
 ```bash
 
-python src/scripts/count\_image.py
+python src/scripts/count_image.py
 
 ```
 
@@ -158,7 +158,7 @@ python src/scripts/count\_image.py
 
 ```bash
 
-python src/scripts/count\_video.py
+python src/scripts/count_video.py
 
 ```
 
